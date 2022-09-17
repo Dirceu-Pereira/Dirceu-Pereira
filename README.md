@@ -4,10 +4,12 @@ I'm Dirceu Pereira
 
 <div align="center">
   <a href="https://github.com/Dirceu-Pereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dirceu-Pereira&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dirceu-Pereira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Dirceu-Pereira&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+ 
+  
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dirceu-Pereira&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+
   
 <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
