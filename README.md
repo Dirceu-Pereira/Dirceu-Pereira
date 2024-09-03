@@ -3,27 +3,24 @@ I'm Dirceu Pereira
 ##
 
 <div align="center">
-  <a href="https://github.com/Dirceu-Pereira">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dirceu-Pereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dirceu-Pereira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
+<a href="https://github.com/Dirceu-Pereira">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dirceu-Pereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dirceu-Pereira&layout=compact"/>
 </div>
 
 ##
 
 <div>
    <br> <br>
-
   
 <img align="left" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="left" height="50" width="50" src=https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">   
+<img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">   
 <img align="left" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
 <img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
 
  <br>
-   <br>
+ <br>
 </div>
 
 ##
