@@ -4,9 +4,7 @@ I'm Dirceu Pereira
 
 <div align="center">
   <a href="https://github.com/Dirceu-Pereira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dirceu-Pereira&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
- 
-  
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dirceu-Pereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dirceu-Pereira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -19,12 +17,11 @@ I'm Dirceu Pereira
 
   
 <img align="left" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-<img align="left" height="50" width="50" src="https://camo.githubusercontent.com/10f779eee8930793bd3d1faf0a0377d1ee034c298689961c15274ded7b2c5f32/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313339303434383136303933343330353739332f6f686969384878715f343030783430302e706e67">
-  
+ <img align="left" height="50" width="50" src=https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">   
 <img align="left" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
-<img align="left"  height="50" width="50" src="https://camo.githubusercontent.com/3614be9807cf8ef3d065de2207ec33666d71c9ac843e33a3ec961cab4a0d2078/687474703a2f2f7777772e3266636f6e73756c746f7269612e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031372f30322f4d6963726f736f66742d53514c2d5365727665722e706e67">
+<img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+<img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
+
  <br>
    <br>
 </div>
