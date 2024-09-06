@@ -11,16 +11,14 @@ I'm Dirceu Pereira
 ##
 
 <div>
-   <br> <br>
-  
+<br> <br>  
 <img align="left" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">   
 <img align="left" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
 <img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
-
- <br>
- <br>
+<br>
+<br>
 </div>
 
 ##
