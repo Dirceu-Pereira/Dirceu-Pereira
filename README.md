@@ -5,7 +5,7 @@ I'm Dirceu Pereira
 <div align="center">
 <a href="https://github.com/Dirceu-Pereira">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dirceu-Pereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dirceu-Pereira&layout=compact&langs_count=3&theme=dark"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dirceu-Pereira&layout=compact&langs_count=1&theme=dark"/>
 </div>
 
 ##
